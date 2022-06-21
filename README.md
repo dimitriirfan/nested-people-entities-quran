@@ -1,5 +1,5 @@
 # nested-people-entities-quran
-This repository consist of indonesian translated quran with nested people entities up to two level datasets, and a supervised learning implementations (BiLSTM-CRF, IndoBERT, CRF) of people entity extraction on indonesian translated quran.
+This repository consist of indonesian translated quran with nested people entities up to two level datasets, and a supervised learning implementations (BiLSTM-CRF, IndoBERT, CRF) of nested people entity extraction on indonesian translated quran.
 
 ## Dataset
 * **Dataset file**: ```TA_dataset_raw_labeled_nested_4th```
